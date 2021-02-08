@@ -10,7 +10,9 @@ RNAi was carried out using a bacterial feeding approach. Aside from worms grown 
 
 ### Results
 
-[Data](https://github.com/agolikova/RNAi-Gene-Screen-Heatmap/blob/main/TR%20screen%20data.csv) denoting survival of wild-type *C. elegans* worms following heat shock was illustrated as a [heatmap](https://github.com/agolikova/RNAi-Gene-Screen-Heatmap/blob/main/Heatmap.png) using RStudio. Survival of worms grown on the 19 RNAi clones in the days following heat shock showed no clear segregation by subunit subcomplex/particle, with knockdown of most subunits resulting in either decreased or similar stress resistance compared to control worms. The only gene which enhanced stress resistance to the same extent as *F29C4.2* RNAi upon knockdown was *pas-1*, which encodes a type 6 α subunit forming part of the 20S outer rings.
+[Data](https://github.com/agolikova/RNAi-Gene-Screen-Heatmap/blob/main/TR%20screen%20data.csv) denoting survival of wild-type *C. elegans* worms following heat shock was illustrated as a [heatmap](https://github.com/agolikova/RNAi-Gene-Screen-Heatmap/blob/main/Heatmap.jpg) using RStudio. The resulting heatmap annotations were added using Adobe Illustrator.
+
+Survival of worms grown on the 19 RNAi clones in the days following heat shock showed no clear segregation by subunit subcomplex/particle, with knockdown of most subunits resulting in either decreased or similar stress resistance compared to control worms. The only gene which enhanced stress resistance to the same extent as *F29C4.2* RNAi upon knockdown was *pas-1*, which encodes a type 6 α subunit forming part of the 20S outer rings.
 
 ### Conclusion
 
