@@ -1,4 +1,4 @@
-# RNAi-Gene-Screen-Heatmap
+# RNAi Gene Screen Heatmap
 
 ### Background
 
